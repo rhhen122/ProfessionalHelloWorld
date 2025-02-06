@@ -9,4 +9,4 @@ def importvars():
     from assets.r import r
     from assets.d import d
 importvars()
-print(H+e+l+l+o+comma+space+W+o+r+l+d) #type: ignore
+print(H+e+l+l+o+comma+space+W+o+r+l+d)
