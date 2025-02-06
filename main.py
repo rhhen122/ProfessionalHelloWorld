@@ -1,6 +1,6 @@
 def importvars():
-    from assets.bang import bang
     from assets.comma import comma
+    from assets.space import space
     from assets.h import H
     from assets.e import e
     from assets.l import l
